@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "home": "Inco",
+    "about": "About",
+    "room": "Room",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "quick": "Quick Book"
+  }
+}
