@@ -269,7 +269,7 @@ export default function BookingForm() {
       }
 
       const response = await axios.post(
-        `https://sherpa-backend-6cvs.onrender.comm/api/book/${id}`,
+        `https://sherpa-backend-6cvs.onrender.com/api/book/${id}`,
         submitData,
         {
           headers: {
